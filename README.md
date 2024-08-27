@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Emir Gündoğdu</h1>
 <h3 align="center">A passionate backend developer from Turkiye.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzemir&label=Profile%20views&color=0e75b6&style=flat" alt="hmzemir" /> </p>
 
 - 🔭 I’m currently working on [technology-forum-project](https://github.com/hmzemir/technology-forum-project)
 
@@ -23,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmzemir&show_icons=true&locale=en&layout=compact" alt="hmzemir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmzemir&show_icons=true&locale=en" alt="hmzemir" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmzemir&label=Profile%20views&color=0e75b6&style=flat" alt="hmzemir" /> </p>
